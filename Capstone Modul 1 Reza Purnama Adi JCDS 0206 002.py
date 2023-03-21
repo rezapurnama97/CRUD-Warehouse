@@ -57,7 +57,7 @@ input num 1-5: """)
         elif int(mainMenuInput) == 4:
             deleteDataItem()
         elif int(mainMenuInput) == 5:
-            print("terima Kasih")
+            print("Thank You")
             global run
             run = 0
     else :
